@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusJoe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Counter](http://36.134.138.141:5000/get?name=markusJoe&theme=gelbooru-h)
+![Counter](http://36.134.138.141:5000/get?name=markusJoe&theme=lewd)
